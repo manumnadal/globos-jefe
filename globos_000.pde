@@ -27,7 +27,7 @@ ArrayList<Globo> globos;
 
 void setup()
 {
-  size(displayWidth,displayHeight);
+  size(600, 400); //displayWidth displayHeight
   globos = new ArrayList<Globo>();  
 }
 
